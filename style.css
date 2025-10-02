@@ -1,11 +1,11 @@
-<!-- Reset geral -->
+/* Reset Geral */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-<!-- Corpo do site -->
+/* Corpo do site */
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f0fdf4;
@@ -14,7 +14,7 @@ body {
   padding: 20px;
 }
 
-<!-- Cabeçalho -->
+/* Cabeçalho*/
 header {
   text-align: center;
   margin-bottom: 30px;
@@ -35,7 +35,7 @@ header img {
   margin-top: 15px;
 }
 
-<!-- Conteúdo principal -->
+/* Conteúdo principal */
 main {
   max-width: 800px;
   margin: 0 auto;
@@ -45,7 +45,7 @@ main {
   box-shadow: 0 0 10px rgba(0,0,0,0.05)
 }
 
-<!-- Listas -->
+/* Listas */
 ul {
   margin: 15px 0 15px 25px;
 }
@@ -54,7 +54,7 @@ ul li {
   margin-bottom: 5px;
 }
 
-<!-- Frase de impacto -->
+/* Frase de impacto*/
 em {
   display: block;
   text-align: center;
@@ -63,7 +63,7 @@ em {
   margin-top: 15px;
 }
 
-<!-- Rodapé -->
+/* Rodapé*/
 footer {
   text-align: center;
   margin-top: 40px;
@@ -71,6 +71,7 @@ footer {
   color: #4b5563;
 }
 
+/* Informações adicionais */
 abbr {
   border-bottom: 1px dotted #555;
   cursor: help;
