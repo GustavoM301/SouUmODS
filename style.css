@@ -1,1 +1,79 @@
+<!-- Reset geral -->
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+<!-- Corpo do site -->
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0fdf4;
+  color: #1a1a1a;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+<!-- Cabeçalho -->
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  color: #166534;
+  font-size: 2em;
+}
+
+header h2 {
+  color: #15803d;
+  margin-top: 10px;
+  font-weight: normal;
+}
+
+header img {
+  margin-top: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+<!-- Conteúdo principal -->
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05)
+}
+
+<!-- Listas -->
+ul {
+  margin: 15px 0 15px 25px;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+<!-- Frase de impacto -->
+em {
+  display: block;
+  text-align: center;
+  font-size: 1.2em;
+  color: #047857;
+  margin-top: 15px;
+}
+
+<!-- Rodapé -->
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #4b5563;
+}
+
+abbr {
+  border-bottom: 1px dotted #555;
+  cursor: help;
+}
