@@ -40,11 +40,16 @@ header img {
 /* Conteúdo principal */
 main {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 30px auto;
   background: #ffffff;
-  padding: 25px;
-  border-radius: 15px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.05)
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08)
+  transition: transform 0.2s ease;
+}
+
+main:hover {
+  transform: translateY(-3px);
 }
 
 /* Listas */
