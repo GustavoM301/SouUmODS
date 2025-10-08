@@ -31,6 +31,12 @@ header h2 {
   font-weight: normal;
 }
 
+header h3 {
+  color: #15803d;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
 header img {
   display: block;
   margin-left: auto;
