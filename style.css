@@ -67,6 +67,12 @@ ul li {
   margin-bottom: 5px;
 }
 
+.inscricao {
+  margin-top: 7px;
+  color: #108213;
+  font-size: 1.5em;
+}
+
 /* Frase de impacto*/
 em {
   display: block;
