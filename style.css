@@ -79,10 +79,10 @@ a.texto-inscricao {
   display: block;
 }
 
-.link-inscricao {
+a {
   text-align: center;
-  font-size: 1.1em;
-}
+  display: block;
+} 
 
 /* Frase de impacto*/
 em {
