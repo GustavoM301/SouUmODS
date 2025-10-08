@@ -74,6 +74,10 @@ ul li {
   font-size: 1.5em;
 }
 
+.link-inscricao {
+  text-align: center;
+  font-size: 1.1em;
+
 /* Frase de impacto*/
 em {
   display: block;
