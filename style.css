@@ -74,8 +74,9 @@ ul li {
   font-size: 1.5em;
 }
 
-.texto-inscricao {
+a.texto-inscricao {
   text-align: center;
+  display: block;
 }
 
 .link-inscricao {
