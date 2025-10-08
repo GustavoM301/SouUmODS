@@ -74,6 +74,10 @@ ul li {
   font-size: 1.5em;
 }
 
+.texto-inscricao {
+  text-align: center;
+}
+
 .link-inscricao {
   text-align: center;
   font-size: 1.1em;
